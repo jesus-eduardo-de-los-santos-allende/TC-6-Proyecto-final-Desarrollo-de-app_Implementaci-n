@@ -1,1 +1,1 @@
-const String nombreApp = 'Cafetería CETis 131';
+const String nombreApp = 'foodmix';
