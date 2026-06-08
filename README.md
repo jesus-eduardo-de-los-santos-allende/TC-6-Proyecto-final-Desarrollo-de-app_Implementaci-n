@@ -48,7 +48,7 @@ Para ejecutar el proyecto se necesita:
 Clonar el repositorio:
 
 ```bash
-git clone LINK_DEL_REPOSITORIO
+git clone https://github.com/jesus-eduardo-de-los-santos-allende/TC-6-Proyecto-final-Desarrollo-de-app_Implementaci-n.git
 ````
 
 Entrar a la carpeta del proyecto:
@@ -86,25 +86,3 @@ Después puede:
 
 ---
 
-## Estructura del proyecto
-
-```
-lib/
-│
-├── models/
-│   └── modelos de recetas
-│
-├── providers/
-│   └── manejo del estado
-│
-├── screens/
-│   └── pantallas de la aplicación
-│
-├── widgets/
-│   └── componentes reutilizables
-│
-└── main.dart
-```
-
-Ese ya queda acorde al nombre de tu app **FoodMix**.
-```
